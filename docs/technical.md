@@ -1,0 +1,3 @@
+# Detalii tehnice
+
+## Ecrane aplicatie
