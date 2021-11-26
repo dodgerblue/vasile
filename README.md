@@ -44,3 +44,13 @@
 * Vasile devine un membru distractiv al intregului grup de cunostinte ale expatului in Romania, putand sa faciliteze interactiunea cu localnicii, sau fiind un instrument educativ in discutiile cu alti expati.
 
 ## [Detalii tehnice](docs/technical.md)
+
+## Credits
+
+* **Eugeniu Cernei** ![Eugeniu Cernei]()
+* **Bogdan Purcareata** ![Bogdan Purcareata]()
+
+### Special thanks:
+* **Roxana Neagu** ![Roxana Neagu](https://media-exp1.licdn.com/dms/image/C5603AQGs9d7MX0WDRw/profile-displayphoto-shrink_800_800/0/1528288296204?e=1643241600&v=beta&t=D9fbRgspvZALUw-pMAEl_fD6LDkLFMEdpmEUSKwHNTo), Director Editorial [avocatnet.ro](https://avocatnet.ro/)
+* **Mihai Dinu** ![Mihai Dinu](https://avatars.githubusercontent.com/u/11949565?v=4), Software Engineer, HARMAN International
+* **Remus Popovici** ![Remus Popovici](https://media-exp1.licdn.com/dms/image/D4E03AQGBVySaz2LXTQ/profile-displayphoto-shrink_800_800/0/1635432202788?e=1643241600&v=beta&t=M8mbK-QR0ZhmDLs-c6EtqktFogTNJutLPqrKcDUMOeQ), Co-Founder, [R&R Partners Bucharest](https://rrpb.ro/home-page/)
