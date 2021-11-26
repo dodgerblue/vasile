@@ -45,12 +45,12 @@
 
 ## [Detalii tehnice](docs/technical.md)
 
-## Credits
+## Team
 
-* **Eugeniu Cernei** ![Eugeniu Cernei](https://media-exp1.licdn.com/dms/image/C5603AQEhZ8FtcVnvMg/profile-displayphoto-shrink_800_800/0/1558980955481?e=1643241600&v=beta&t=cv7Y0W1-EKnEfXIH495ncuZxpeUVNvitex_7xz-fu_g =100x100), Machine Learning Engineer, Heimdal Security
-* **Bogdan Purcareata** ![Bogdan Purcareata](https://media-exp1.licdn.com/dms/image/C4E03AQFaJ5GyV9U_yQ/profile-displayphoto-shrink_800_800/0/1637761877622?e=1643241600&v=beta&t=k96cmuSdlbZ1nhcXYXHXOBU21I-U6nf6THbXAo2c_e8 =100x100), Senior Software Engineer, Google
+* **Eugeniu Cernei** ![Eugeniu Cernei](artifacts/pics/img_eugen.jpeg), Machine Learning Engineer, Heimdal Security
+* **Bogdan Purcareata** ![Bogdan Purcareata](artifacts/pics/img_bogdan.jpeg), Senior Software Engineer, Google
 
 ### Special thanks:
-* **Roxana Neagu** ![Roxana Neagu](https://media-exp1.licdn.com/dms/image/C5603AQGs9d7MX0WDRw/profile-displayphoto-shrink_800_800/0/1528288296204?e=1643241600&v=beta&t=D9fbRgspvZALUw-pMAEl_fD6LDkLFMEdpmEUSKwHNTo =100x100), Director Editorial [avocatnet.ro](https://avocatnet.ro/)
-* **Mihai Dinu** ![Mihai Dinu](https://avatars.githubusercontent.com/u/11949565?v=4 =100x100), Software Engineer, HARMAN International
-* **Remus Popovici** ![Remus Popovici](https://media-exp1.licdn.com/dms/image/D4E03AQGBVySaz2LXTQ/profile-displayphoto-shrink_800_800/0/1635432202788?e=1643241600&v=beta&t=M8mbK-QR0ZhmDLs-c6EtqktFogTNJutLPqrKcDUMOeQ =100x100), Co-Founder, [R&R Partners Bucharest](https://rrpb.ro/home-page/)
+* **Roxana Neagu** ![Roxana Neagu](artifacts/pics/img_roxana.jpeg), Director Editorial [avocatnet.ro](https://avocatnet.ro/)
+* **Mihai Dinu** ![Mihai Dinu](artifacts/pics/img_mihai.jpeg), Software Engineer, HARMAN International
+* **Remus Popovici** ![Remus Popovici](artifacts/pics/img_remus.jpeg), Co-Founder, [R&R Partners Bucharest](https://rrpb.ro/home-page/)
