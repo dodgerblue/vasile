@@ -1,0 +1,61 @@
+Salut! Eu sunt Vasile si sunt din Romania.
+
+Bogdan: Salut! Eu sunt Bogdan, si sunt din Gura Humorului, Suceava, Romania.
+
+Eugen: Salut! Eu sunt Eugen, si sunt din Chisinau, Republica Moldova.
+
+Roxana: Salut! Eu sunt Roxana, si sunt din Brasov, Romania.
+
+Mihai: Salut! Eu sunt Mihai, si sunt din ..., ...
+
+Remus: Salut! Eu sunt Remus, si sunt din Bucuresti, Romania.
+
+Bogdan: Vasile este o solutie software in forma unui asistent audio / video ...
+
+B: care asista utilizatorul international (ie engleza) in viata de zi cu zi din Romania.
+
+B: Utilizatorul poate afla foarte usor: ce poate sa manance?
+
+B: Unde poate vedea un film? Merge la un restaurant? Rezolva o problema?
+
+B: Marimea bulelor de sugestie pe care le ofera Vasile momentan momentan e reprezentata de date fictive in prototip
+
+B: Insa in produsul final, ele vor fi determinate de un AI sensibil la alegerile anterioare ale utilizatorului
+
+B: si poate si la un soi de AI colectiv in functie de cercurile utilizatorului?
+
+B: Bulele oferite de Vasible sunt sensibile la tap
+
+B: La tap ele fac playback cuvantului de pe bula in limba locala - mancare crapat
+
+B: Este vizibila si schimbarea in text.
+
+B: Momentan, ce stie Vasile sa spuna sunt date statice
+
+Exemplu 1, 2, 3, etc.
+
+B: Insa in viitor Vasile poate functiona si ca serviciu
+
+B: Vasile poate controla serviciile de audio playback din ambianta auditiva a utilizatorului
+
+B: Oferind optiuni de playback de radio local
+
+B: Playback de pe Youtube
+
+B: Citate celebre
+
+B: Sau voci celebre
+
+B: Sau chiar studii experimentale in service de voice to text, in romana
+
+B: Si asta in orice limba
+
+B: Bonjour, je suis Pierre, et je suis depui Paris, France.
+
+B: Guten Tag! Ich bin Hans und ich wahre im Berlin, Deutschland!
+
+B: Facandu-l pe Vasile un partner de nadejde utilizatorului international, pe oriunde se duce.
+
+B: Chiar si cu prietenii! 'adu telefonul incoace'
+
+B: Va multumim! Votati-i pe Vasile si pe Vasilica!
