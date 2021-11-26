@@ -5,27 +5,29 @@
 
 > [Demo](_<Presentation Video link>_)
 
-### Prototip
+### Produs
 
-* Un UX mock functional cu primele 1' - 2' cu user flow-ul unui user.
-* @Eugen aici intra input-ul tau legat de tech.
-* *P0*: Utilizatorul poate afla informatii de interes (legislativ, urban, administrativ, etc.).
-* *P0*: Utilizatorul poate descoperi locatii din zona in care locuieste (restaurante, teatre, magazine, farmacii, etc.) - descoperit pe baza de Geolocation / inputul utilizatorului.
-* *P0*: Utilizatorul poate auzi expresii / formulari citite in romaneste si inregistrate ca voice over / fond sonor in aplicatie.
-* *P0*: Utilizatorul acceseaza continutul intr-o forma intuitiva, bazata pe taxonomii eficiente (P1: eventual actualizabile in functie de pattern-urile de utilizare ale aplicatiei).
-* *P0*: Aplicatia este distractiva de utilizat: sectiuni “surpriza” cu injuraturi, proverbe celebre, dume audio ale celebritatilor ( Vadim, Hagi, etc.)
-* *P0*: Utilizatorul poate folosi (intuitiv si usor) aplicatia pentru a afla:
+* **P0**: Utilizatorul poate afla informatii de interes (legislativ, urban, administrativ, etc.).
+* **P0**: Utilizatorul poate descoperi locatii din zona in care locuieste (restaurante, teatre, magazine, farmacii, etc.) - descoperit pe baza de Geolocation / inputul utilizatorului.
+* **P0**: Utilizatorul poate auzi expresii / formulari citite in romaneste si inregistrate ca voice over / fond sonor in aplicatie.
+* **P0**: Utilizatorul acceseaza continutul intr-o forma intuitiva, bazata pe taxonomii eficiente (P1: eventual actualizabile in functie de pattern-urile de utilizare ale aplicatiei).
+* **P0**: Aplicatia este distractiva de utilizat: sectiuni “surpriza” cu injuraturi, proverbe celebre, dume audio ale celebritatilor ( Vadim, Hagi, etc.)
+* **P0**: Utilizatorul poate folosi (intuitiv si usor) aplicatia pentru a afla:
   * _Ce sa manance azi?_
   * _Unde poate vedea un film?_
   * _Unde poate ajunge la o farmacie?_
   * _Unde poate ajunge la un magazin alimentar?_
   * _Unde poate ajunge sa plateasca taxe?_
+* **P1**: Utilizatorul poate conecta un canal de Youtube la aplicatie unde poate asculta muzica / tutoriale / etc. facute de romani (preferabil cu subtitrari in engleza).
+* **P1**: Aplicatia este educativa - utilizatorul poate inregistra expresiile care sunt auzite, si un algoritm poate masura similaritatea pronuntiei.
+* **P1**: Utilizatorul isi poate conecta contul de social media (Facebook, Instagram, etc.) si sa primeasca sugestii ale unui AI colectiv al cercurilor sale sociale (prieteni, familie, grupuri de prieteni, comunitati, etc.)
 
-### Produs
+### Prototip 2021.11.27 DevFest
 
-* *P1*: Utilizatorul poate conecta un canal de Youtube la aplicatie unde poate asculta muzica / tutoriale / etc. facute de romani (preferabil cu subtitrari in engleza).
-* *P1*: Aplicatia este educativa - utilizatorul poate inregistra expresiile care sunt auzite, si un algoritm poate masura similaritatea pronuntiei.
-* *P1*: Utilizatorul isi poate conecta contul de social media (Facebook, Instagram, etc.) si sa primeasca sugestii ale unui AI colectiv al cercurilor sale sociale (prieteni, familie, grupuri de prieteni, comunitati, etc.)
+* Un UX mock functional cu primele 1' - 2' cu user flow-ul unui user si taxonomii statice.
+* Insa cu mare parte din artefactele si UX-ul produsului final
+* Dpdv documentatie, o 'coloana vertebrala' pe care se poate construi in paralel pe diverse directii de implementare / cercetare.
+
 
 ## Beneficii
 
