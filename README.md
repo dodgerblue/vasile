@@ -47,18 +47,20 @@
 
 ## Team
 
-* ![Eugeniu Cernei](artifacts/pics/img_eugen.jpeg)
-  * **Eugeniu Cernei**
-  * Machine Learning Engineer, Heimdal Security
-* **Bogdan Purcareata** ![Bogdan Purcareata](artifacts/pics/img_bogdan.jpeg), Senior Software Engineer, Google
+![Eugeniu Cernei](artifacts/pics/img_eugen.jpeg)
+#### **Eugeniu Cernei**
+##### Machine Learning Engineer, Heimdal Security
+![Bogdan Purcareata](artifacts/pics/img_bogdan.jpeg)
+#### **Bogdan Purcareata**
+##### Senior Software Engineer, Google
 
 ### Special thanks:
-* ![Roxana Neagu](artifacts/pics/img_roxana.jpeg),
-  * **Roxana Neagu**
-  * Director Editorial [avocatnet.ro](https://avocatnet.ro/)
-* ![Mihai Dinu](artifacts/pics/img_mihai.jpeg)
-  * **Mihai Dinu**
-  * Software Engineer, HARMAN International
-* ![Remus Popovici](artifacts/pics/img_remus.jpeg)
-  * **Remus Popovici**
-  * Co-Founder, [R&R Partners Bucharest](https://rrpb.ro/home-page/)
+![Roxana Neagu](artifacts/pics/img_roxana.jpeg),
+#### **Roxana Neagu**
+##### Director Editorial [avocatnet.ro](https://avocatnet.ro/)
+![Mihai Dinu](artifacts/pics/img_mihai.jpeg)
+#### **Mihai Dinu**
+##### Software Engineer, HARMAN International
+![Remus Popovici](artifacts/pics/img_remus.jpeg)
+#### **Remus Popovici**
+##### Co-Founder, [R&R Partners Bucharest](https://rrpb.ro/home-page/)
