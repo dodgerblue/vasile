@@ -47,8 +47,8 @@
 
 ## Credits
 
-* **Eugeniu Cernei** ![Eugeniu Cernei]()
-* **Bogdan Purcareata** ![Bogdan Purcareata]()
+* **Eugeniu Cernei** ![Eugeniu Cernei](https://media-exp1.licdn.com/dms/image/C5603AQEhZ8FtcVnvMg/profile-displayphoto-shrink_800_800/0/1558980955481?e=1643241600&v=beta&t=cv7Y0W1-EKnEfXIH495ncuZxpeUVNvitex_7xz-fu_g), Machine Learning Engineer, Heimdal Security
+* **Bogdan Purcareata** ![Bogdan Purcareata](https://media-exp1.licdn.com/dms/image/C4E03AQFaJ5GyV9U_yQ/profile-displayphoto-shrink_800_800/0/1637761877622?e=1643241600&v=beta&t=k96cmuSdlbZ1nhcXYXHXOBU21I-U6nf6THbXAo2c_e8), Senior Software Engineer, Google
 
 ### Special thanks:
 * **Roxana Neagu** ![Roxana Neagu](https://media-exp1.licdn.com/dms/image/C5603AQGs9d7MX0WDRw/profile-displayphoto-shrink_800_800/0/1528288296204?e=1643241600&v=beta&t=D9fbRgspvZALUw-pMAEl_fD6LDkLFMEdpmEUSKwHNTo), Director Editorial [avocatnet.ro](https://avocatnet.ro/)
