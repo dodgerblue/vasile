@@ -2,8 +2,8 @@
 
 ## Ecrane aplicatie
 
-![Ecran1](artifacts/pics/01_start.jpg)
-![Ecran2](artifacts/pics/02_start_subtitle.jpg)
+![Ecran1](docs/artifacts/pics/01_start.jpg)
+![Ecran2](docs/artifacts/pics/02_start_subtitle.jpg)
 ### Buna, eu sunt Vasile!
 * *What would you like to do?* (Ce ti-ar placea sa facem?)
   * Mancam ceva? (Food)
@@ -11,7 +11,7 @@
   * Cauti un loc? (Map)
   * Invata (Fun)
 
-![Ecran3](artifacts/pics/03_main.jpg)
+![Ecran3](docs/artifacts/pics/03_main.jpg)
 #### Activitatea centrala - explorare
 * Food (Mancare) - 25%
   * Carne - 20%
@@ -38,7 +38,7 @@
   * Standard Google map screen
   * bule in jurul locatiilor de interes pentru user
 
-![Ecran4](artifacts/pics/04_details.jpg)
+![Ecran4](docs/artifacts/pics/04_details.jpg)
 #### Distractie
 * Fun (Distractie) - 25%
   * Proverbe romanesti: https://vorbeste-romaneste.ro/ - 50%
@@ -64,17 +64,16 @@
   * Limba utilizator: P0 engleza, P1 romana
   * Limba locala: P0 romana, P1 romana dialect regional (Banat, Moldova, Ardeal, etc.), P1 rusa
 
-## ROXANA Neagu:
-> ar fi interesant pt expati, dpdv legislatie, tot ce tine de:
-> rezidenta fiscala & relatia cu autoritatile fiscale (plata taxelor&impozitelor)
-> inmatriculari de vehicule in romania
-> asigurari sociale si de sanatate
-> zona de relatii de munca (daca sunt angajati)
-> sau regimul fiscal al freelancerilor - in cazul in care lucreaza pe cont propriu ca PFA/SRL -
-> cu tot ce presupune fiecare dintre variantele astea:
-> depunere de declaratii fiscale
-> raportari la ANAF
-> plati de taxe
+## ROXANA Neagu: > ar fi interesant pt expati, dpdv legislatie, tot ce tine de:
+* rezidenta fiscala & relatia cu autoritatile fiscale (plata taxelor&impozitelor)
+* inmatriculari de vehicule in romania
+* asigurari sociale si de sanatate
+* zona de relatii de munca (daca sunt angajati)
+* sau regimul fiscal al freelancerilor - in cazul in care lucreaza pe cont propriu ca PFA/SRL -
+* cu tot ce presupune fiecare dintre variantele astea:
+* depunere de declaratii fiscale
+* raportari la ANAF
+* plati de taxe
 
 ## REMUS Popovici: Legal pentru expati 101
 
