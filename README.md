@@ -66,3 +66,10 @@
 ![Remus Popovici](artifacts/pics/img_remus.jpeg)
 #### **Remus Popovici**
 ##### Co-Founder, [R&R Partners Bucharest](https://rrpb.ro/home-page/)
+
+#### Credits
+* [https://github.com/dodgerblue/vasile](https://github.com/dodgerblue/vasile)
+* Produced by: 6-BlueTeam
+* Music:
+  * Subcarpati - Balada Romanului
+  * Zdob si Zdub - Videli Noch
