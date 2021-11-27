@@ -1,17 +1,26 @@
 <script>
+    import { createEventDispatcher } from 'svelte';
+    const dispatch = createEventDispatcher();
+
     let categories = [
         { name: "Government" },
         { name: "Transport" },
         { name: "Food" },
         { name: "Fun" },
         { name: "Cinema" },
-        { name: "Pubs" },
+        { name: "Weather" },
     ];
+
+
+    export let page = null;
+    const select = val => () => page = val
 </script>
 
 <div class="parent">
     {#each categories as { name }}
-        <div class="item"><a href="/categories/{name.toLowerCase()}"> {name} </a></div>
+        <button class="item" on:click={select(name.toLowerCase())}>
+            {name} 
+        </button>
     {/each}
 </div>
 

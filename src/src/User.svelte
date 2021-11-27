@@ -12,7 +12,8 @@
     .parent {
         margin: auto;
         width: fit-content;
-        height: 200px;
+        height: fit-content;
+        margin-bottom: 1em;
         display: grid;
         grid-template-columns: 1fr 2fr;
         justify-items: center;
