@@ -12,50 +12,116 @@ Remus: Salut! Eu sunt Remus, si sunt din Bucuresti, Romania.
 
 Bogdan: Vasile este o solutie software in forma unui asistent audio / video ...
 
+VASILE is a software solution in the shape of an audio / video assistant
+
 B: care asista utilizatorul international (ie engleza) in viata de zi cu zi din Romania.
+
+... that assists the international user (ie English) in day to day life in Romania.
 
 B: Utilizatorul poate afla foarte usor: ce poate sa manance?
 
+The user can easily find: what can they eat?
+
 B: Unde poate vedea un film? Merge la un restaurant? Rezolva o problema?
+
+Where can they see a movie? Go to a restaurant? Solve a problem?
 
 B: Marimea bulelor de sugestie pe care le ofera Vasile momentan momentan e reprezentata de date fictive in prototip
 
+The size of the suggestion bubbles served by Vasile is currently represented by fictitious data in the prototype
+
 B: Insa in produsul final, ele vor fi determinate de un AI sensibil la alegerile anterioare ale utilizatorului
+
+... but in the end product, they will be determined by an AI sensitive to the user's previous choices
 
 B: si poate si la un soi de AI colectiv in functie de cercurile utilizatorului?
 
+... and maybe a sort of collective AI based on the user's friend circles.
+
 B: Bulele oferite de Vasible sunt sensibile la tap
+
+Vasile's bubbles are sensitive to tap
 
 B: La tap ele fac playback cuvantului de pe bula in limba locala - mancare crapat
 
+On tap, they playback the word pronunciation audio in the local language
+
+mâncare
+
+crăpăt
+
 B: Este vizibila si schimbarea in text.
 
+(the text change would also be visible)
+
 B: Momentan, ce stie Vasile sa spuna sunt date statice
+
+For now, all Vasile knows saying is static data
 
 Exemplu 1, 2, 3, etc.
 
 B: Insa in viitor Vasile poate functiona si ca serviciu
 
+But in the future, Vasile can also act as a device service
+
 B: Vasile poate controla serviciile de audio playback din ambianta auditiva a utilizatorului
+
+Vasile can control the audio playback services in the user's audio ambiance
 
 B: Oferind optiuni de playback de radio local
 
+... offering local radion playback options
+
 B: Playback de pe Youtube
+
+... Youtube playback
 
 B: Citate celebre
 
+... famous quotes
+
 B: Sau voci celebre
+
+... famous voices
 
 B: Sau chiar studii experimentale in service de voice to text, in romana
 
+... or even experimental voice-to-text services, in Romanian
+
 B: Si asta in orice limba
+
+... or in any other language
 
 B: Bonjour, je suis Pierre, et je suis depui Paris, France.
 
+Salut! Je suis Pierre et je viens de Paris, France
+
 B: Guten Tag! Ich bin Hans und ich wahre im Berlin, Deutschland!
+
+Hallo! Ich bin Hans und komme aus Berlin, Deutschland
 
 B: Facandu-l pe Vasile un partner de nadejde utilizatorului international, pe oriunde se duce.
 
+Making Vasible a dependable partner for the international user, everywhere they go.
+
 B: Chiar si cu prietenii! 'adu telefonul incoace'
 
+Even when they're with friends!
+
 B: Va multumim! Votati-i pe Vasile si pe Vasilica!
+
+Thank you! Vote VASILE / VASILICA!
+
+We left the house when all the windows
+
+The lights went out one by one
+
+We saw the last tram leaving
+
+Taxis are driving, but we have nothing to pay
+
+And we don't need to go we walk alone
+
+Our cassette player has run out of tape. Motay!
+
+We saw the night, we walked all night, until the morning
